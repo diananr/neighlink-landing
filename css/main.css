@@ -119,6 +119,12 @@ body{
     }
 }
 
+@media screen and (max-width: 865px){
+    .header_nav > ul > .header_nav_item{
+        display: none;
+    }
+}
+
 /*HERO*/
 .hero_section{
     background-color: white;
