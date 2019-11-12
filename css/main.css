@@ -297,9 +297,23 @@ body{
 .plan_item_name{
     color: var(--main-color);
 }
+/*ABOUT US*/
+.about_us_section{
+    background-color: var(--background-color);;
+    width: 100%;
+    padding: 30px 0;
+}
+
+.about_us_wrapper{
+    padding: 62px 0;
+    max-width: 350px;
+    margin: auto;
+    height: 100%;
+    text-align: center;
+}
+
 /*CONTACT*/
 .contact_section{
-    background-color: var(--background-color);;
     width: 100%;
     padding: 30px 0;
 }
